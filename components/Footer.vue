@@ -6,7 +6,7 @@
         <div class="w-full lg:w-6/12 px-4">
           <div class="w-1/2">
             <a href="#_" class="text--logo">
-              Starter
+             DataMediaPro
             </a>
           </div>
           <div class="my-2">

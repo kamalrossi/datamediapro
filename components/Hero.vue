@@ -2,7 +2,7 @@
   <section class="hero md:px-0">
     <div class="hero--container">
       <h1 class="hero--headings">
-        <span class="block">Data Driven <span class="block text-gradient bg-gradient-to-r from-blue-600 via-indigo-400 to-purple-300 lg:inline lg:mt-0 mt-1">Media</span></span>
+        <span class="block">Data Driven<span class="block text-gradient bg-gradient-to-r from-blue-600 via-indigo-400 to-purple-300 lg:inline lg:mt-0 mt-1">Media</span></span>
       </h1>
       <p class="hero--description">
         Manage your content/media with emerging deep learning solutions

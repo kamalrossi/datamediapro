@@ -41,7 +41,7 @@
              Big Data for Consumer Behavior Analysis
             </h4>
             <p class="text-base text-center text-gray-500">
-            We have access for  consumer behavior analysis
+            We have methods for  consumer behavior analysis
             </p>
           </div>
 

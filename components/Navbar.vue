@@ -17,7 +17,7 @@
             </a>
 
             <a href="#_" class="item--link">
-              <span class="block">Plans</span>
+              <span class="block">Plan</span>
             </a>
 
             <a href="#_" class="item--link">

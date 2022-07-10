@@ -5,19 +5,19 @@
         <span class="block">Data Driven <span class="block text-gradient bg-gradient-to-r from-blue-600 via-indigo-400 to-purple-300 lg:inline lg:mt-0 mt-1">Media</span></span>
       </h1>
       <p class="hero--description">
-        Manage your publisher services with Emerging Deep Learning solutions
+        Manage your content/media with emerging deep learning solutions
       </p>
       <div class="hero--actions md:space-x-4">
         <a href="#" class="btn btn--primary">
-          Get Started
+          Order Now
         </a>
         <a href="#" class="btn btn--default">
-          Learn more
+          Free Trial
         </a>
       </div>
     </div>
     <div class="hero--img-container">
-      <img src="~/assets/images/hero.svg" alt="Build website">
+      <img src="~/assets/images/datamediapro.png" alt="Build website">
     </div>
   </section>
 </template>

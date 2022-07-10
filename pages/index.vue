@@ -8,10 +8,10 @@
     <section class="py-20 bg-gray-50 shadow-inner">
       <div class="px-4 mx-auto text-center max-w-7xl sm:px-6 lg:px-8">
         <h2 class="text-3xl font-bold tracking-tight text-accent sm:text-4xl md:text-5xl xl:text-6xl">
-          Built exclusively for you
+          DataScience for Business
         </h2>
         <p class="max-w-md mx-auto mt-3 text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.
+         We explore  Data Science for Business benefit.
         </p>
       </div>
 
@@ -24,10 +24,10 @@
               </svg>
             </div>
             <h4 class="text-xl font-medium text-accent">
-              Sed ut perspiciatis
+              Deep Learning for  Revenue
             </h4>
             <p class="text-base text-center text-gray-500">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+           Neural Network based Architecture is helpful for profit for classified consumer information
             </p>
           </div>
 
@@ -38,10 +38,10 @@
               </svg>
             </div>
             <h4 class="text-xl font-medium text-accent">
-              Ut enim ad minim veniam
+             Big Data for Consumer Behavior Analysis
             </h4>
             <p class="text-base text-center text-gray-500">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+            We have access for  consumer behavior analysis
             </p>
           </div>
 
@@ -52,10 +52,10 @@
               </svg>
             </div>
             <h4 class="text-xl font-medium text-accent">
-              Excepteur sint occaecat
+             Admin Dashboard for Media Management
             </h4>
             <p class="text-base text-center text-gray-500">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+             You have instant access to multimedia data management with customer, admin, ordere and different modules
             </p>
           </div>
         </div>
@@ -85,12 +85,12 @@ export default {
     CallAction
   },
   head: {
-    title: 'Starter - Level up your website.',
-    meta: [ // SEO Tags
+    title: 'DataMediaPro -Drive towards Data Science',
+    meta: [ 
       {
-        hid: 'description',
-        name: 'description',
-        content: 'My starter home page'
+        hid: 'DataMediaPro',
+        name: 'DataMediaPro',
+        content: 'Drive towards Data Science based Media and Publishing Houses'
       }
     ]
   },
@@ -98,21 +98,21 @@ export default {
     testimonials: [
       {
         id: 1,
-        name: 'James Durant',
-        jobTitle: 'Owner, Steak House',
-        message: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium'
+        name: 'Schartz Katerine',
+        jobTitle: 'Owner, East Eurpean Bookstore',
+        message: 'We run a small publishing house. We are lucky that we got the chance of data science application'
       },
       {
         id: 2,
-        name: 'Christopher Buddy',
-        jobTitle: 'CEO, HouseDesign Ltd.',
-        message: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium'
+        name: 'Henry Roseberg',
+        jobTitle: 'MD, BookHouse Nearby Ltd.',
+        message: 'We were running out of ideas for promoting our media business. Great. We have found a solution'
       },
       {
         id: 3,
-        name: 'Alphonse Todd',
-        jobTitle: 'CTO, MarketplaceDesign Inc.',
-        message: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium'
+        name: 'Stephanie Korvertina',
+        jobTitle: 'CEO, EuroMedia Inc.',
+        message: 'Luckily we got a permanent solution, how we can sell our media content online'
       }
     ]
   })

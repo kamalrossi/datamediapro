@@ -37,10 +37,10 @@
             <div class="w-full lg:w-6/12 ml-auto">
               <ul class="list-none text-md text-gray-400">
                 <li class="mb-2 font-semibold uppercase block">
-                  Resources
+                 Contact Us
                 </li>
                 <li class="mb-2 block">
-                  Terms and Conditions
+                  Social media
                 </li>
                 <li class="mb-2 block">
                   Privacy Policy
